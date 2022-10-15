@@ -1,10 +1,10 @@
 # Site Settings
 lang: en
-title: Haapy的博客
+title: Bulma Clean Theme
 tagline: Bulma Clean Theme
 email: jinh1990@hotmail.com
 description: >
-  这里是Haapy的个人博客
+  Haapy
 baseurl: "/bulma-clean-theme"
 url: "https://www.csrhymes.com"
 permalink: pretty
