@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://blog.jinhuan.fun
 date_format: "ordinal"
 title: 随便写写
 subtitle: "Haapy的博客"
@@ -13,7 +13,7 @@ encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2022
 # 源码仓库，请替换成自己的
-repository: Haapy112/Haapy112.github.io
+#repository: Haapy112/Haapy112.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -39,7 +39,7 @@ components:
     # 页面右上角，以及「关于」页面的二维码
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
-        enabled: true
+        enabled: false
         image_alt: Haapy
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
     wiki:
